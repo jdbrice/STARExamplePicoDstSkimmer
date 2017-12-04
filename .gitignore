@@ -1,0 +1,7 @@
+.sl64_gcc482/
+*.session.xml
+*.root
+*.dataset
+temp_gccflags.c
+*.consign
+*.lis
