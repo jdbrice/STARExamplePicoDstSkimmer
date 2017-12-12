@@ -10,7 +10,7 @@
 
 	<command>
 		starver SL16j
-		./runList.csh $FILELIST
+		root4star -b -q -l '( "'$FILELIST'")'
 		mv output.root output_${JOBID}.root
 	</command>
 
